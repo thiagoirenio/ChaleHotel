@@ -47,9 +47,9 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-{ChaleHotel} é um projeto criado para o meu aprendizado pessoal.
+{ ChaleHotel } é um projeto criado para o meu aprendizado pessoal.
 
-O desafio proposto para este projeto era a criação {Site de Noticias para uma Cidade}. Neste projeto, usei {Html & Css}
+O desafio proposto foi criar um { Site de um chále hotel }. Neste projeto, usei { Html & Css}
 
 <!-- LINHA DE DIVISÃO: -->
 ---
