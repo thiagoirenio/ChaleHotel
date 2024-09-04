@@ -1,4 +1,4 @@
-<!-- 
+ <!-- 
 	FIZ UM VÍDEO NO MEU CANAL (), 
  	MOSTRANDO PASSO-A-PASSO DE COMO
   	UTILIZAR ESSA DESCRIÇÃO
@@ -47,9 +47,9 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-{Nome do repositório} é um projeto criado para o processo seletivo da {Nome da Empresa}.
+{ChaleHotel} é um projeto criado para o meu aprendizado pessoal.
 
-O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, teríamos {EXPLICAR}
+O desafio proposto para este projeto era a criação {Site de Noticias para uma Cidade}. Neste projeto, usei {Html & Css}
 
 <!-- LINHA DE DIVISÃO: -->
 ---
@@ -60,8 +60,8 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 ## ⚙️ Funcionalidades
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Se o usuário não enviar mensagens dentro de 1 minuto o chat deve responder uma mensagem automaticamente.
-- [x] Se o usuário ficar inativo por 3 minutos o chat se encerra
+- [x] Imagens de um chalé hotel.
+- [x] Descrição de um chlé hotel.
 
 ---
 
@@ -70,12 +70,24 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 <!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
 
+
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
+<h1>
+	<p align="center">Imagem do site Home</p> 
+	<a href="https://thiagoirenio.github.io/ChaleHotel/">Home</a><br>
+	<img src="https://thiagoirenio.github.io/ChaleHotel/imagesReadme/site01.png" alt="Imagem do site 01" width="850" height="315" align="center"><br>
+	<hr size="3" width="100%" align="center" style="border: 1px solid #000;">
+</h1>
 
 
 ### Widget em uma página externa
+<br>
+<p>
+	•🏠<a href="https://thiagoirenio.github.io/ChaleHotel/">Home</a><br>
+</p>
+
 
 
 
@@ -94,7 +106,7 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 
 <!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
-NeoVIM - O melhor editor
+NeoVIM - Recomento usar também o LazyVim
 
 ---
 
