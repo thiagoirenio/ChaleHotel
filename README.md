@@ -50,10 +50,6 @@
 <p>
 	<strong>ChaleHotel</strong> é um projeto criado para o meu aprendizado pessoal.
 </p> 
-
-
-
-
 <p>
 	O desafio proposto foi criar um <strong>Site de um chále hotel</strong>. Neste projeto, usei <strong>Html & Css</strong>
 </p> 
