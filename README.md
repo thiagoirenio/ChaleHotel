@@ -49,11 +49,15 @@
 <!-- EXPLICA O MOTIVO DO PROJETO -->
 <p>
 	<strong>ChaleHotel</strong> é um projeto criado para o meu aprendizado pessoal.
-</p> é um projeto criado para o meu aprendizado pessoal.
+</p> 
 
 
 
-O desafio proposto foi criar um { Site de um chále hotel }. Neste projeto, usei { Html & Css}
+
+<p>
+	O desafio proposto foi criar um <strong>Site de um chále hotel</strong>. Neste projeto, usei <strong>Html & Css</strong>
+</p> 
+
 
 <!-- LINHA DE DIVISÃO: -->
 ---
