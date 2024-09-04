@@ -47,7 +47,11 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-{ ###ChaleHotel } é um projeto criado para o meu aprendizado pessoal.
+<p>
+	<strong>ChaleHotel</strong> é um projeto criado para o meu aprendizado pessoal.
+</p> é um projeto criado para o meu aprendizado pessoal.
+
+
 
 O desafio proposto foi criar um { Site de um chále hotel }. Neste projeto, usei { Html & Css}
 
