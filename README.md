@@ -65,7 +65,7 @@
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
 - [x] Imagens de um chalé hotel.
-- [x] Descrição de um chlé hotel.
+- [x] Descrição de um chalé hotel.
 
 ---
 
