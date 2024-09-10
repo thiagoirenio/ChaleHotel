@@ -7,12 +7,12 @@
 
 body {
     font-family: Helvetica, "Trebuchet MS", sans-serif;
-    background: #fff url(../imagens/bg.png);
+    background: #fff url(../img/bg.png);
     margin: 15px;
 }
 
  #container {
-    background: #ede9cc url(../imagens/bg-container.png) top center repeat-y;
+    background: #ede9cc url(../img/bg-container.png) top center repeat-y;
     margin: 0 auto;
     min-width: 740px;
     max-width: 1180px;
@@ -27,7 +27,7 @@ body {
 
 #area-logo {
 	position: absolute;
-	background: url(../imagens/topo-imagem-principal.png) no-repeat;
+	background: url(../img/topo-imagem-principal.png) no-repeat;
 	width: 100%;
 	height: 250px;
 	top: 0;
@@ -40,7 +40,7 @@ body {
 	top: 15px;
 	left: 15px;
 	z-index: 3;
-	background: url(../imagens/logo.png) no-repeat;
+	background: url(../img/logo.png) no-repeat;
 	width: 151px;
 	height: 66px;
 	text-indent: -9000px;
@@ -50,7 +50,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    background: url(../imagens/topo-imagem-lateral.png) no-repeat;
+    background: url(../img/topo-imagem-lateral.png) no-repeat;
     width: 450px;
     height: 250px;
     z-index: 2;
@@ -125,14 +125,14 @@ ul#navegacao a:hover {
 #area-principal {
     float: left;
     width: 50%;
-    background: url(../imagens/bg-area-principal.png) top left repeat-x;
+    background: url(../img/bg-area-principal.png) top left repeat-x;
     padding: 15px 0;
 }
 
 #area-lateral { 
     float: right;
     width: 50%;
-    background: url(../imagens/bg-area-lateral.png) top left repeat-x;
+    background: url(../img/bg-area-lateral.png) top left repeat-x;
     padding: 20px 0;
 }
 
@@ -144,7 +144,7 @@ ul#navegacao a:hover {
 #rodape {
     clear: both;
     padding: 15px;
-    background: #fff url(../imagens/bg-rodape.png) repeat-x top;
+    background: #fff url(../img/bg-rodape.png) repeat-x top;
     color: #7d7640;
 }
 
@@ -184,7 +184,7 @@ p {
     font-size: 1em;
     color: #615b2d;
     padding: 5px 0;
-    background: url(../imagens/ornamento.png) no-repeat center right;
+    background: url(../img/ornamento.png) no-repeat center right;
 }
 
 #beneficios li:hover {
@@ -192,7 +192,9 @@ p {
     cursor: pointer;
 }
 
-
-
-
+#menu #aponta {
+    background: #fdf6be;
+    text-decoration: none;
+    border-radius: 5px;
+}
 
